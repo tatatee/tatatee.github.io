@@ -8,7 +8,8 @@ A thinker by habit and an artist at heart.
 
 Full CV on request.
 
-Bridge the social distance here: [Facebook](https://www.facebook.com/tatatee "Facebook") | [Instagram](https://www.instagram.com/minnerina "Instagram") | [LinkedIn](https://www.linkedin.com/in/mllim "LinkedIn") | [Pocket](https://getpocket.com/&#64;tatatee "Pocket") | [Twitter](https://twitter.com/Min89174344 "Twitter")
+Bridge the social distance here: 
+[Facebook](https://www.facebook.com/tatatee "Facebook") | [Instagram](https://www.instagram.com/minnerina "Instagram") | [LinkedIn](https://www.linkedin.com/in/mllim "LinkedIn") | [Pocket](https://getpocket.com/&#64;tatatee "Pocket") | [Twitter](https://twitter.com/Min89174344 "Twitter")
 
 ### #tools
 - ###### Languages:
