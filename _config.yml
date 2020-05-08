@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+theme:						jekyll-theme-minimal
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            tatatee.github.io
+tagline:          ''
+description:      ''
+baseurl:          /
+
+paginate:         5
+
